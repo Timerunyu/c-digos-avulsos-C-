@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\bin\Debug\net8.0\programmis.exe
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\bin\Debug\net8.0\programmis.deps.json
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\bin\Debug\net8.0\programmis.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\bin\Debug\net8.0\programmis.dll
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\bin\Debug\net8.0\programmis.pdb
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.dll
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\refint\programmis.dll
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.pdb
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\programmis.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\vscode\programmis\obj\Debug\net8.0\ref\programmis.dll
