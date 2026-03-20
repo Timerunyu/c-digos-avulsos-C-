@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Documentos\csharps\bin\Debug\net10.0\csharps.exe
+C:\Users\ferna\OneDrive\Documentos\csharps\bin\Debug\net10.0\csharps.deps.json
+C:\Users\ferna\OneDrive\Documentos\csharps\bin\Debug\net10.0\csharps.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\csharps\bin\Debug\net10.0\csharps.dll
+C:\Users\ferna\OneDrive\Documentos\csharps\bin\Debug\net10.0\csharps.pdb
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.dll
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\refint\csharps.dll
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.pdb
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\csharps.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\csharps\obj\Debug\net10.0\ref\csharps.dll
