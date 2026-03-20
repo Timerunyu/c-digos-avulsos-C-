@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Documentos\cshart\bin\Debug\net10.0\cshart.exe
+C:\Users\ferna\OneDrive\Documentos\cshart\bin\Debug\net10.0\cshart.deps.json
+C:\Users\ferna\OneDrive\Documentos\cshart\bin\Debug\net10.0\cshart.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\cshart\bin\Debug\net10.0\cshart.dll
+C:\Users\ferna\OneDrive\Documentos\cshart\bin\Debug\net10.0\cshart.pdb
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.dll
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\refint\cshart.dll
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.pdb
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\cshart.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\cshart\obj\Debug\net10.0\ref\cshart.dll
